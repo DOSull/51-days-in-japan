@@ -1,0 +1,18 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "51 days in Japan"
+  # sidebar:
+  #   contents:
+  #     - index.qmd 
+  #     - auto: images/
+  #   floating: true
+  page-navigation: true
+
+format:
+  html:
+    theme: 
+      - litera
+    toc: false
