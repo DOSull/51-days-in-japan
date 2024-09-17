@@ -37,10 +37,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-dark.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="dark">
+<link href="../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
 <script src="../site_libs/quarto-contrib/glightbox/glightbox.min.js"></script>
 <link href="../site_libs/quarto-contrib/glightbox/glightbox.min.css" rel="stylesheet">
 <link href="../site_libs/quarto-contrib/glightbox/lightbox.css" rel="stylesheet">
@@ -451,7 +451,9 @@ ul.task-list li input[type="checkbox"] {
 
 
 <p><a href="../images/20120509200304_dsc01586.jpg" class="lightbox" data-gallery="all-the-pictures"><img src="../images/20120509200304_dsc01586.jpg" class="img-fluid"></a></p>
-<p>This is Shibuya, that crazy crossing with all the people. It was only about 10:30 on a Saturday morning, so naturally it wasn’t that busy. I was actually taking these for the book as much as anything—we are using photographs of relevant scenes to talk about things you might use particular types of model to represent, and pedestrians are one of those things.<br><br>I set off from here and walked via Harajuku and Yoyogi to Shinjuku on Saturday. An interesting stretch of city with more going on than you could shake a stick at. Harajuku was particularly insane. I’ll see if I managed to get a good picture of that for tomorrow.<br><br>I added a map link to the website template to see how that works. I think it would work OK if the GPS on my camera coped better with getting a decent fix in the city. A known problem with GPS: all those tall buildings make it hard to get a reliable location fix. Funny enough this is one thing the camera phone is better at, because it cheats and positions of cell towers. [Day 9’s picture is exactly right]{09-day-10-something-completely-different.qmd}.</p>
+<p>This is Shibuya, that crazy crossing with all the people. It was only about 10:30 on a Saturday morning, so naturally it wasn’t that busy. I was actually taking these for the book as much as anything—we are using photographs of relevant scenes to talk about things you might use particular types of model to represent, and pedestrians are one of those things.</p>
+<p>I set off from here and walked via Harajuku and Yoyogi to Shinjuku on Saturday. An interesting stretch of city with more going on than you could shake a stick at. Harajuku was particularly insane. I’ll see if I managed to get a good picture of that for tomorrow.</p>
+<p>I added a map link to the website template to see how that works. I think it would work OK if the GPS on my camera coped better with getting a decent fix in the city. A known problem with GPS: all those tall buildings make it hard to get a reliable location fix. Funny enough this is one thing the camera phone is better at, because it cheats and positions of cell towers. [Day 9’s picture is exactly right]{09-day-10-something-completely-different.qmd}.</p>
 
 
 
@@ -878,7 +880,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   </div>
 </nav>
 </div> <!-- /content -->
-<script>var lightboxQuarto = GLightbox({"selector":".lightbox","loop":false,"descPosition":"bottom","closeEffect":"zoom","openEffect":"zoom"});
+<script>var lightboxQuarto = GLightbox({"openEffect":"zoom","closeEffect":"zoom","loop":false,"selector":".lightbox","descPosition":"bottom"});
 window.onload = () => {
   lightboxQuarto.on('slide_before_load', (data) => {
     const { slideIndex, slideNode, slideConfig, player, trigger } = data;

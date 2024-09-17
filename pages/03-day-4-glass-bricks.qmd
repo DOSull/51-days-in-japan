@@ -1,10 +1,10 @@
 ---
 title: "Day 4: Glass Bricks"
 lightbox:
-  match: auto
+ match: auto
 format: html
 ---
 
 ![](../images/20120423175215_dsc01485.jpg){group="all-the-pictures"}
 
-They like their glass bricks on the campus buildings, but nowhere more so than Engineering Building 14 which is where I'll be going tomorrow to see Asami-san (Prof Yasushi Asami).  Mostly the main campus buildings are pretty ugly though, functional rather than interesting to look at a but like it was at Penn State.
+They like their glass bricks on the campus buildings, but nowhere more so than Engineering Building 14 which is where I'll be going tomorrow to see Asami-san (Prof Yasushi Asami). Mostly the main campus buildings are pretty ugly though, functional rather than interesting to look at a but like it was at Penn State.

@@ -37,10 +37,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-dark.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="dark">
+<link href="../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
 <script src="../site_libs/quarto-contrib/glightbox/glightbox.min.js"></script>
 <link href="../site_libs/quarto-contrib/glightbox/glightbox.min.css" rel="stylesheet">
 <link href="../site_libs/quarto-contrib/glightbox/lightbox.css" rel="stylesheet">
@@ -451,7 +451,10 @@ ul.task-list li input[type="checkbox"] {
 
 
 <p><a href="../images/20120426231810_dsc01497.jpg" class="lightbox" data-gallery="all-the-pictures"><img src="../images/20120426231810_dsc01497.jpg" class="img-fluid"></a></p>
-<p>This was at the <a href="http://g.co/maps/asyxp">Buddhist shrine on Sunday</a>. It’s the place in the middle of the map with the backwards swastika thingummy (there’s a reason for that, which is explained <a href="https://en.wikipedia.org/wiki/Swastika">here</a>).<br><br>These pieces of paper are called <em>omikuji</em> and are fortunes that people give a small donation to receive. They then leave the bad fortunes behind at the shrine. I guess they take the good ones home. There’s information about <a href="http://www.onmarkproductions.com/html/shrine-guide-2.shtml#luckycharms">how it all works here</a>.<br><br>It’s pretty amazing that people go to the trouble of folding and tieing the pieces of paper up so precisely. <br><br>I like the abstract texture that the whole thing makes—and also that it’s paper!</p>
+<p>This was at the <a href="http://g.co/maps/asyxp">Buddhist shrine on Sunday</a>. It’s the place in the middle of the map with the backwards swastika thingummy (there’s a reason for that, which is explained <a href="https://en.wikipedia.org/wiki/Swastika">here</a>).</p>
+<p>These pieces of paper are called <em>omikuji</em> and are fortunes that people give a small donation to receive. They then leave the bad fortunes behind at the shrine. I guess they take the good ones home. There’s information about <a href="http://www.onmarkproductions.com/html/shrine-guide-2.shtml#luckycharms">how it all works here</a>.</p>
+<p>It’s pretty amazing that people go to the trouble of folding and tieing the pieces of paper up so precisely.</p>
+<p>I like the abstract texture that the whole thing makes—and also that it’s paper!</p>
 
 
 
@@ -878,7 +881,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   </div>
 </nav>
 </div> <!-- /content -->
-<script>var lightboxQuarto = GLightbox({"closeEffect":"zoom","loop":false,"openEffect":"zoom","descPosition":"bottom","selector":".lightbox"});
+<script>var lightboxQuarto = GLightbox({"selector":".lightbox","openEffect":"zoom","descPosition":"bottom","loop":false,"closeEffect":"zoom"});
 window.onload = () => {
   lightboxQuarto.on('slide_before_load', (data) => {
     const { slideIndex, slideNode, slideConfig, player, trigger } = data;

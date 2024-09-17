@@ -1,10 +1,16 @@
 ---
 title: "Day 5: Is This What Earthquake Proof Looks Like?"
 lightbox:
-  match: auto
+ match: auto
 format: html
 ---
 
 ![](../images/20120424203032_dsc01494.jpg){group="all-the-pictures"}
 
-So another interesting (I hope) geometric picture in shades of grey (there'll be crazy coloured stuff soon, I promise).  This is a view along the side of one of the buildings on campus, and I can only assume that this is earthquake reinforcement.  It almost looks like there is a big stell frame and the building is suspended inside that.  It can't do a whole lot for the views from inside-yes those are windows that people might want to look out of running along on the left hand side of the picture.  <br><br>Quite a few of the buildings look like they might have had this sort of thing done later as an add-on (a clip-on, if you will...) although some of them probably have it as an architectural 'feature', I think.<br><br>I prefer the glass bricks.<br><br>__PS__ Oddly enough there was [a bit of a rumble](http://www.jma.go.jp/en/quake/20120425053242391-250522.html) early in the morning after I posted this&mdash;a 5.5.
+So another interesting (I hope) geometric picture in shades of grey (there'll be crazy coloured stuff soon, I promise). This is a view along the side of one of the buildings on campus, and I can only assume that this is earthquake reinforcement. It almost looks like there is a big steel frame and the building is suspended inside that. It can't do a whole lot for the views from inside-yes those are windows that people might want to look out of running along on the left hand side of the picture. 
+
+Quite a few of the buildings look like they might have had this sort of thing done later as an add-on (a clip-on, if you will...) although some of them probably have it as an architectural 'feature', I think.
+
+I prefer the glass bricks.
+
+__PS__ Oddly enough there was [a bit of a rumble](http://www.jma.go.jp/en/quake/20120425053242391-250522.html) early in the morning after I posted this&mdash;a 5.5.

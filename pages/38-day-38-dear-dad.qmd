@@ -1,10 +1,14 @@
 ---
 title: "Day 38: Dear Dad..."
 lightbox:
-  match: auto
+ match: auto
 format: html
 ---
 
 ![](../images/20120528122529_dsc01968.jpg){group="all-the-pictures"}
 
-Not sure if this is irony, completely straight, or some elusive combination of the two.  If you can't read the text, it says 'Dear Dad, I am glad to present you with this bottle of whiskey.  Your worries will be completely disinfected by the alcohol.  And I'd like to say \"cheers\" to you on Father's Day!'<br><br>This was on Ometosando, the high end shopping street.  More of which in later posts...<br><br>Sorry about the delay posting, there was some sort of technical problem with the installation, which I had to ask our webhosting company to sort out.
+Not sure if this is irony, completely straight, or some elusive combination of the two. If you can't read the text, it says 'Dear Dad, I am glad to present you with this bottle of whiskey. Your worries will be completely disinfected by the alcohol. And I'd like to say \"cheers\" to you on Father's Day!'
+
+This was on Ometosando, the high end shopping street. More of which in later posts...
+
+Sorry about the delay posting, there was some sort of technical problem with the installation, which I had to ask our webhosting company to sort out.

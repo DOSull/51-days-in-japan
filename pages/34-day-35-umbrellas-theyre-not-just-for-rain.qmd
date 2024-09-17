@@ -1,10 +1,10 @@
 ---
 title: "Day 35: Umbrellas... They're Not Just For Rain"
 lightbox:
-  match: auto
+ match: auto
 format: html
 ---
 
 ![](../images/20120524175543_dsc01937.jpg){group="all-the-pictures"}
 
-No... it's not raining again, or at least it wasn't this morning.  In fact it was very sunny.  But here's something else they do is use umbrellas to keep the sun off.  Probably better for you than all that gunk we smear all over ourselves...
+No... it's not raining again, or at least it wasn't this morning. In fact it was very sunny. But here's something else they do is use umbrellas to keep the sun off. Probably better for you than all that gunk we smear all over ourselves...

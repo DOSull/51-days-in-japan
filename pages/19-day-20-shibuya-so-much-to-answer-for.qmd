@@ -1,10 +1,14 @@
 ---
 title: "Day 20: Shibuya, So Much To Answer For"
 lightbox:
-  match: auto
+ match: auto
 format: html
 ---
 
 ![](../images/20120509200304_dsc01586.jpg){group="all-the-pictures"}
 
-This is Shibuya, that crazy crossing with all the people.  It was only about 10:30 on a Saturday morning, so naturally it wasn't that busy.  I was actually taking these for the book as much as anything&mdash;we are using photographs of relevant scenes to talk about things you might use particular types of model to represent, and pedestrians are one of those things.<br><br>I set off from here and walked via Harajuku and Yoyogi to Shinjuku on Saturday.  An interesting stretch of city with more going on than you could shake a stick at.  Harajuku was particularly insane.  I'll see if I managed to get a good picture of that for tomorrow.<br><br>I added a map link to the website template to see how that works.  I think it would work OK if the GPS on my camera coped better with getting a decent fix in the city.  A known problem with GPS: all those tall buildings make it hard to get a reliable location fix.  Funny enough this is one thing the camera phone is better at, because it cheats and positions of cell towers.  [Day 9's picture is exactly right]{09-day-10-something-completely-different.qmd}.
+This is Shibuya, that crazy crossing with all the people. It was only about 10:30 on a Saturday morning, so naturally it wasn't that busy. I was actually taking these for the book as much as anything&mdash;we are using photographs of relevant scenes to talk about things you might use particular types of model to represent, and pedestrians are one of those things.
+
+I set off from here and walked via Harajuku and Yoyogi to Shinjuku on Saturday. An interesting stretch of city with more going on than you could shake a stick at. Harajuku was particularly insane. I'll see if I managed to get a good picture of that for tomorrow.
+
+I added a map link to the website template to see how that works. I think it would work OK if the GPS on my camera coped better with getting a decent fix in the city. A known problem with GPS: all those tall buildings make it hard to get a reliable location fix. Funny enough this is one thing the camera phone is better at, because it cheats and positions of cell towers. [Day 9's picture is exactly right]{09-day-10-something-completely-different.qmd}.
