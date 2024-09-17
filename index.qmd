@@ -1,12 +1,15 @@
 ---
 title: "51 Days in Japan"
 format: html
-filters:
-  - lightbox
-lightbox: auto
+listing: 
+  contents: 
+    - "pages/*.qmd"
+  sort: false
+  type: grid
+  max-description-length: 80
 ---
 
-::: { layout-ncol=5}
+<!-- ::: { layout-ncol=5}
 
 ![](images/20120421105646_dsc01476.jpg){group="my-gallery"}
 
@@ -108,4 +111,4 @@ lightbox: auto
 
 ![](images/20120608173110_dsc02067.jpg){group="my-gallery"}
 
-:::
+::: -->

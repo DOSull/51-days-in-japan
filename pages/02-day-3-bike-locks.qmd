@@ -1,0 +1,10 @@
+---
+title: "Day 3: Bike Locks"
+lightbox:
+  match: auto
+format: html
+---
+
+![](../images/20120422133354_dsc01487.jpg){group="all-the-pictures"}
+
+At first it looks like noone locks their bikes.  Then you notice they all have these built in locks like this one.  Probably wouldn't work somewhere less law-abiding, but seems to do the trick here.

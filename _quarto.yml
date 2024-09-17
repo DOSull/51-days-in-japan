@@ -3,16 +3,14 @@ project:
   output-dir: docs
 
 website:
-  title: "51 days in Japan"
-  # sidebar:
-  #   contents:
-  #     - index.qmd 
-  #     - auto: images/
-  #   floating: true
+  title: "51 Days in Japan"
   page-navigation: true
+  sidebar:
+    style: floating
+    search: true
+    contents: pages
 
 format:
   html:
-    theme: 
-      - litera
-    toc: false
+    theme: slate
+    toc: true
