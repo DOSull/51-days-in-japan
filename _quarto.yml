@@ -12,5 +12,5 @@ website:
 
 format:
   html:
-    theme: slate
+    theme: journal
     toc: true

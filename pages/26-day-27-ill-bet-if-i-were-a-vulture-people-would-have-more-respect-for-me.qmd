@@ -7,4 +7,4 @@ format: html
 
 ![](../images/20120516155008_dsc01633.jpg){group="all-the-pictures"}
 
-On the subject of [crows](index.php?showimage=24)...<br><br>[In case you don't get the reference](http://c0389161.cdn.cloudfiles.rackspacecloud.com/dyn/str_strip/240592.full.gif).
+On the subject of [crows](24-day-25-gotcha.qmd)...<br><br>[In case you don't get the reference](http://c0389161.cdn.cloudfiles.rackspacecloud.com/dyn/str_strip/240592.full.gif).
