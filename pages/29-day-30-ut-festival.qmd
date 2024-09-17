@@ -1,5 +1,5 @@
 ---
-title: "Day 30: Ut Festival"
+title: "Day 30: UT Festival"
 lightbox:
  match: auto
 format: html
