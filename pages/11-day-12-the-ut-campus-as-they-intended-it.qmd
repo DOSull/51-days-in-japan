@@ -1,5 +1,5 @@
 ---
-title: "Day 12: The Ut Campus As They Intended It"
+title: "Day 12: The UT Campus As They Intended It"
 lightbox:
  match: auto
 format: html
